@@ -1,0 +1,18 @@
+li{
+    padding: 4px;
+}
+
+.item{
+    background-color: #984;
+    position: sticky;
+}
+
+.itemgrande{
+    font-size: 1.4em;
+    font-family: sans-serif;
+    text-shadow: 2px 2px red;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px solid #000;
+}
+
